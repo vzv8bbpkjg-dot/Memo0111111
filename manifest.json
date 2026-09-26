@@ -1,0 +1,16 @@
+{
+  "name": "項目・メモ管理アプリ",
+  "short_name": "メモ管理",
+  "description": "項目、メモ、画像、URL、Todoをまとめて管理できるPWA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#0b0b0b",
+  "lang": "ja-JP",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
